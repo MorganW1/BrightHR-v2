@@ -1,0 +1,21 @@
+
+[
+    {
+        "firstname": "John",
+        "surname": "Smith",
+        "email": "test@test.com",
+        "phonenumber": "07867656543",
+        "jobtitle": "ABC",
+        "subscribe": true,
+        "initials": "JS"
+    },
+    {
+        "firstname": "Paul",
+        "surname": "Jones",
+        "email": "test@test.com",
+        "phonenumber": "07867656543",
+        "jobtitle": "DEF",
+        "subscribe": false,
+        "initials": "PJ"
+    }
+]
